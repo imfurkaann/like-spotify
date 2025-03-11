@@ -1,6 +1,6 @@
 # 🎵 Music Platform
 
-This project is a music streaming platform similar to Spotify. Users can browse and discover music, albums, and artists. All content is interconnected within the database, ensuring a seamless experience. Additionally, an admin panel allows complete content management.I prepared this project as a final in my course.
+This project is a music streaming platform similar to Spotify. Users can browse and discover music, albums, and artists. All content is interconnected within the database, ensuring a seamless experience. Additionally, an admin panel allows complete content management. I've written the backend of a website with a ready frontend using PHP for my course.
 
 Tools used in the production of the project: PHP HTML5 CSS3 Bootstrap Template MySql Jquery
 
